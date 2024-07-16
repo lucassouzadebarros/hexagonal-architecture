@@ -71,10 +71,6 @@ em camadas distintas:
     docker-compose down
     ```
 
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. 
-
-
 3. Atualize as configurações de banco de dados no arquivo `application.properties`:
     ```properties
     spring.datasource.url=jdbc:postgresql://localhost:5433/seubanco
@@ -86,6 +82,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
     mvn spring-boot:run
     ```
 
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. 
+
+
 ## Contato
-- Seu Nome - [LinkedIn](https://www.linkedin.com/in/lucassouzadebarros/)
+- Lucas Souza de Barros - [LinkedIn](https://www.linkedin.com/in/lucassouzadebarros/)
 - Email: lucassouzadebarros@gmail.com
