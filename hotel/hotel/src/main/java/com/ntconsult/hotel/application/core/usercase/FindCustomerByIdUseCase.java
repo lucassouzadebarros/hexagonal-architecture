@@ -1,8 +1,8 @@
-package com.ntconsult.hotel.apllication.core.usercase;
+package com.ntconsult.hotel.application.core.usercase;
 
-import com.ntconsult.hotel.apllication.core.domain.Customer;
-import com.ntconsult.hotel.apllication.ports.in.FindCustomerByIdInputPort;
-import com.ntconsult.hotel.apllication.ports.out.FindCustomerByIdOutputPort;
+import com.ntconsult.hotel.application.core.domain.Customer;
+import com.ntconsult.hotel.application.ports.in.FindCustomerByIdInputPort;
+import com.ntconsult.hotel.application.ports.out.FindCustomerByIdOutputPort;
 
 import java.util.Optional;
 

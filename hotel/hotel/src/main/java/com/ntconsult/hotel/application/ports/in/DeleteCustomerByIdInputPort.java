@@ -1,4 +1,4 @@
-package com.ntconsult.hotel.apllication.ports.in;
+package com.ntconsult.hotel.application.ports.in;
 
 public interface DeleteCustomerByIdInputPort {
 

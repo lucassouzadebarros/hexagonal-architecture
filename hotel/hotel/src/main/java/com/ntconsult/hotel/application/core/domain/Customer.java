@@ -1,4 +1,4 @@
-package com.ntconsult.hotel.apllication.core.domain;
+package com.ntconsult.hotel.application.core.domain;
 
 public class Customer {
 
@@ -6,7 +6,7 @@ public class Customer {
         this.isValidCpf = false;
     }
 
-    public Customer(Long id, String name, com.ntconsult.hotel.apllication.core.domain.Address address, String cpf, boolean isValidCpf) {
+    public Customer(Long id, String name, com.ntconsult.hotel.application.core.domain.Address address, String cpf, boolean isValidCpf) {
         this.id = id;
         this.name = name;
         Address = address;
@@ -40,7 +40,7 @@ public class Customer {
         this.name = name;
     }
 
-    public com.ntconsult.hotel.apllication.core.domain.Address getAddress() {
+    public com.ntconsult.hotel.application.core.domain.Address getAddress() {
         return Address;
     }
 

@@ -2,7 +2,7 @@ package com.ntconsult.hotel.adapters.in.controller.mapper;
 
 import com.ntconsult.hotel.adapters.in.controller.request.CustomerRequest;
 import com.ntconsult.hotel.adapters.in.controller.response.CustomerResponse;
-import com.ntconsult.hotel.apllication.core.domain.Customer;
+import com.ntconsult.hotel.application.core.domain.Customer;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

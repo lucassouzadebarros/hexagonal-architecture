@@ -1,10 +1,10 @@
-package com.ntconsult.hotel.apllication.core.usercase;
+package com.ntconsult.hotel.application.core.usercase;
 
-import com.ntconsult.hotel.apllication.core.domain.Customer;
-import com.ntconsult.hotel.apllication.ports.in.FindCustomerByIdInputPort;
-import com.ntconsult.hotel.apllication.ports.in.UpdateCustomerInputPort;
-import com.ntconsult.hotel.apllication.ports.out.FindAdressBbyZipCodeOutputPort;
-import com.ntconsult.hotel.apllication.ports.out.UpdateCustomerOutputPort;
+import com.ntconsult.hotel.application.core.domain.Customer;
+import com.ntconsult.hotel.application.ports.in.FindCustomerByIdInputPort;
+import com.ntconsult.hotel.application.ports.in.UpdateCustomerInputPort;
+import com.ntconsult.hotel.application.ports.out.FindAdressBbyZipCodeOutputPort;
+import com.ntconsult.hotel.application.ports.out.UpdateCustomerOutputPort;
 
 public class UpdateCustomerUseCase implements UpdateCustomerInputPort {
 

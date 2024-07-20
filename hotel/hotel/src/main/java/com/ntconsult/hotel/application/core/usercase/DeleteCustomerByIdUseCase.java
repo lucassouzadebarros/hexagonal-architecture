@@ -1,8 +1,8 @@
-package com.ntconsult.hotel.apllication.core.usercase;
+package com.ntconsult.hotel.application.core.usercase;
 
-import com.ntconsult.hotel.apllication.ports.in.DeleteCustomerByIdInputPort;
-import com.ntconsult.hotel.apllication.ports.in.FindCustomerByIdInputPort;
-import com.ntconsult.hotel.apllication.ports.out.DeleteCustomerByIdOutPutPort;
+import com.ntconsult.hotel.application.ports.in.DeleteCustomerByIdInputPort;
+import com.ntconsult.hotel.application.ports.in.FindCustomerByIdInputPort;
+import com.ntconsult.hotel.application.ports.out.DeleteCustomerByIdOutPutPort;
 
 public class DeleteCustomerByIdUseCase implements DeleteCustomerByIdInputPort {
 

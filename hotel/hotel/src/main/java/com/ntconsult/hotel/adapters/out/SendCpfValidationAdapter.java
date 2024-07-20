@@ -1,6 +1,6 @@
 package com.ntconsult.hotel.adapters.out;
 
-import com.ntconsult.hotel.apllication.ports.out.SendCpfForValidationOutputPort;
+import com.ntconsult.hotel.application.ports.out.SendCpfForValidationOutputPort;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;

@@ -2,8 +2,8 @@ package com.ntconsult.hotel.adapters.in.consumer;
 
 import com.ntconsult.hotel.adapters.in.consumer.mapper.CustomerMessageMapper;
 import com.ntconsult.hotel.adapters.in.consumer.message.CustomerMessage;
-import com.ntconsult.hotel.apllication.core.domain.Customer;
-import com.ntconsult.hotel.apllication.ports.in.UpdateCustomerInputPort;
+import com.ntconsult.hotel.application.core.domain.Customer;
+import com.ntconsult.hotel.application.ports.in.UpdateCustomerInputPort;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;

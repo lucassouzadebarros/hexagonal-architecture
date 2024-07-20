@@ -1,12 +1,12 @@
-package com.ntconsult.hotel.apllication.core.usercase;
+package com.ntconsult.hotel.application.core.usercase;
 
-import com.ntconsult.hotel.apllication.core.domain.Address;
-import com.ntconsult.hotel.apllication.core.domain.Customer;
-import com.ntconsult.hotel.apllication.ports.in.InsertCustomerInputPort;
-import com.ntconsult.hotel.apllication.ports.out.FindAdressBbyZipCodeOutputPort;
-import com.ntconsult.hotel.apllication.ports.out.InsertAddressOutputPort;
-import com.ntconsult.hotel.apllication.ports.out.InsertCustomerOutputPort;
-import com.ntconsult.hotel.apllication.ports.out.SendCpfForValidationOutputPort;
+import com.ntconsult.hotel.application.core.domain.Address;
+import com.ntconsult.hotel.application.core.domain.Customer;
+import com.ntconsult.hotel.application.ports.in.InsertCustomerInputPort;
+import com.ntconsult.hotel.application.ports.out.FindAdressBbyZipCodeOutputPort;
+import com.ntconsult.hotel.application.ports.out.InsertAddressOutputPort;
+import com.ntconsult.hotel.application.ports.out.InsertCustomerOutputPort;
+import com.ntconsult.hotel.application.ports.out.SendCpfForValidationOutputPort;
 
 public class InsertCustomerUserCase implements InsertCustomerInputPort {
 

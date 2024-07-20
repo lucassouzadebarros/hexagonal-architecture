@@ -1,7 +1,7 @@
 package com.ntconsult.hotel.config;
 
 import com.ntconsult.hotel.adapters.out.FindCustomerByIdAdapter;
-import com.ntconsult.hotel.apllication.core.usercase.FindCustomerByIdUseCase;
+import com.ntconsult.hotel.application.core.usercase.FindCustomerByIdUseCase;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

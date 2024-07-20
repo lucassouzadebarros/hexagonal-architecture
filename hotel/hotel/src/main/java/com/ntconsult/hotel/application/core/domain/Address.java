@@ -1,4 +1,4 @@
-package com.ntconsult.hotel.apllication.core.domain;
+package com.ntconsult.hotel.application.core.domain;
 
 public class Address {
 

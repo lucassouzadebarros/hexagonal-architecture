@@ -1,8 +1,8 @@
-package com.ntconsult.hotel.apllication.core.usercase;
+package com.ntconsult.hotel.application.core.usercase;
 
-import com.ntconsult.hotel.apllication.core.domain.Address;
-import com.ntconsult.hotel.apllication.ports.in.InsertAddressInputPort;
-import com.ntconsult.hotel.apllication.ports.out.InsertAddressOutputPort;
+import com.ntconsult.hotel.application.core.domain.Address;
+import com.ntconsult.hotel.application.ports.in.InsertAddressInputPort;
+import com.ntconsult.hotel.application.ports.out.InsertAddressOutputPort;
 
 public class InsertAddressUseCase implements InsertAddressInputPort {
 

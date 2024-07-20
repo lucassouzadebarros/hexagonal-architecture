@@ -3,8 +3,8 @@ package com.ntconsult.hotel.adapters.out;
 import com.ntconsult.hotel.adapters.out.repository.CustomerRepository;
 import com.ntconsult.hotel.adapters.out.repository.entity.CustomerEntity;
 import com.ntconsult.hotel.adapters.out.repository.mapper.CustomerEntityMapper;
-import com.ntconsult.hotel.apllication.core.domain.Customer;
-import com.ntconsult.hotel.apllication.ports.out.FindCustomerByIdOutputPort;
+import com.ntconsult.hotel.application.core.domain.Customer;
+import com.ntconsult.hotel.application.ports.out.FindCustomerByIdOutputPort;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

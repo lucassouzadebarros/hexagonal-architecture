@@ -1,6 +1,6 @@
 package com.ntconsult.hotel.adapters.in.controller.response;
 
-import com.ntconsult.hotel.apllication.core.domain.Address;
+import com.ntconsult.hotel.application.core.domain.Address;
 
 public class CustomerResponse {
 

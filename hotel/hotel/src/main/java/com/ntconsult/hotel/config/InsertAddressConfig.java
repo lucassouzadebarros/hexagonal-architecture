@@ -1,7 +1,7 @@
 package com.ntconsult.hotel.config;
 
 import com.ntconsult.hotel.adapters.out.InsertAddressAdapter;
-import com.ntconsult.hotel.apllication.core.usercase.InsertAddressUseCase;
+import com.ntconsult.hotel.application.core.usercase.InsertAddressUseCase;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

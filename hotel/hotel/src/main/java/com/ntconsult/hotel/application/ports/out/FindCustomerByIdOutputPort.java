@@ -1,6 +1,6 @@
-package com.ntconsult.hotel.apllication.ports.out;
+package com.ntconsult.hotel.application.ports.out;
 
-import com.ntconsult.hotel.apllication.core.domain.Customer;
+import com.ntconsult.hotel.application.core.domain.Customer;
 
 import java.util.Optional;
 

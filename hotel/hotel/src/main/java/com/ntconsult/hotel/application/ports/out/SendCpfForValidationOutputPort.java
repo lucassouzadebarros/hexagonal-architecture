@@ -1,4 +1,4 @@
-package com.ntconsult.hotel.apllication.ports.out;
+package com.ntconsult.hotel.application.ports.out;
 
 public interface SendCpfForValidationOutputPort {
 
